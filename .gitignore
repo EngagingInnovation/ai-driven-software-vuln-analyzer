@@ -1,3 +1,17 @@
+# General
+.DS_Store
+
+# App
+code-analysis/*
+!code-analysis/samples
+
+code-projects/*
+!code-projects/.gitkeep
+
+vuln-code-embeddings.parquet
+
+
+# GITHUB PYTHON GITIGNORE ====
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
