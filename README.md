@@ -192,3 +192,6 @@ If the `THRESHOLD_SCORE` is set low enough to avoid false negatives, your integr
 
 ### More Vulnerable Code
 This version of the application includes 22 sample snippets for 3 common areas of well known software vulnerabilities. OWASP produces multiple Top Ten lists, with each member of the lists representing a trove of further sub-caterogizations to be explored. If there were ten vulnerable code snippets for each of the ten areas of vulnerability in the OWASP list, there would be 100 snippets to use as a search in this project.
+
+### Read More
+Article written on Medium, "[Beyond Static Analysis: AI Powered Vulnerability Detection](https://medium.com/engaging-innovation/beyond-static-analysis-ai-powered-vulnerability-detection-690ff4e1f94c)", in support of this project.
